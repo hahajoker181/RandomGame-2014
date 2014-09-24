@@ -1,5 +1,5 @@
-RandomProject
-=============
+RandomGame-2014
+===============
 
 I took an interest in learning C++ development just for fun of it. The RandomProject which includes my huge C++ Project that I am currently working on my gap year and hoping to finish by February 2015. 
 
